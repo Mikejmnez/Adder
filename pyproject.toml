@@ -12,7 +12,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 
 [project.urls]
-"Homepage" = "https://github.com/your-username/adder"
+"Homepage" = "https://github.com/Mikejmnez/Adder"
 
 [project.entry-points."console_scripts"]
 add = "adder:add"
